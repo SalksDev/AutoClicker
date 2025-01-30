@@ -1,0 +1,12 @@
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\bin\Debug\ReleaseAC.exe.config
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\bin\Debug\ReleaseAC.exe
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\bin\Debug\WindowsInput.dll
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\bin\Debug\WindowsInput.xml
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.csproj.AssemblyReference.cache
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.Form1.resources
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.Properties.Resources.resources
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.csproj.GenerateResource.cache
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.csproj.CoreCompileInputs.cache
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.csproj.Up2Date
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.exe
+C:\Users\Sanjin\source\repos\ReleaseAC\ReleaseAC\obj\Debug\ReleaseAC.Form2.resources
