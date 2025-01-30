@@ -6,4 +6,3 @@ Simple Autoclicker
 * Click Position
 * Settings (Change Hotkey)
 * Hotkey saves in \Docuemnts\SalkAutoClicker\settings.dat
-* Interval
